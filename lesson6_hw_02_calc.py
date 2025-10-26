@@ -26,3 +26,4 @@ result = driver.find_element(By.CLASS_NAME, "screen").text
 print("Результат:", result)
 
 driver.quit()
+# Добавлен комментарий для проверки PR
