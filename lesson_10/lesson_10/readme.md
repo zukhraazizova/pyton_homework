@@ -1,6 +1,8 @@
-# Урок 10: Allure отчеты
+# Lesson 10 — UI тесты + PageObject + Allure
 
-## Запуск тестов
+## Установка зависимостей
+
+Перед запуском убедитесь, что установлен Python 3.9+ и pip.
 
 ```bash
-pytest --alluredir=allure-results
+pip install -r requirements.txt
