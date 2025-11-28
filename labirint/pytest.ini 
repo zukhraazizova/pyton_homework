@@ -1,4 +1,4 @@
 [pytest]
 markers =
-    ui: mark a test as a UI test
-    api: mark a test as an API test
+    api: API tests
+    ui: UI tests
